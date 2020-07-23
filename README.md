@@ -3,12 +3,15 @@
 ### Problems
 
 - [AlphabetSpam](src/AlphabetSpam)
+- [Apaxiaaaaaaaaaaaans](src/Apaxiaaaaaaaaaaaans)
 - [Autori](src/Autori)
 - [Avion](src/Avion)
 - [BatterUp](src/BatterUp)
+- [Beavergnaw](src/Beavergnaw)
 - [Bela](src/Bela)
 - [Bijele](src/Bijele)
 - [Cetvrta](src/Cetvrta)
+- [ChanukaChallenge](src/ChanukaChallenge)
 - [ColdputerScience](src/ColdputerScience)
 - [CryptographersConundrum](src/CryptographersConundrum)
 - [Cudoviste](src/Cudoviste)

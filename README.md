@@ -36,6 +36,7 @@
 - [ICPCAwards](src/ICPCAwards)
 - [IsItHalloween](src/IsItHalloween)
 - [IveBeenEverywhereMan](src/IveBeenEverywhereMan)
+- [JanitorTroubles](src/JanitorTroubles)
 - [JobExpenses](src/JobExpenses)
 - [JudgingMoose](src/JudgingMoose)
 - [Kemija](src/Kemija)
@@ -68,6 +69,7 @@
 - [Sibice](src/Sibice)
 - [SimonSays](src/SimonSays)
 - [Skener](src/Skener)
+- [Skocimis](src/Skocimis)
 - [SolvingForCarrots](src/SolvingForCarrots)
 - [Spavanac](src/Spavanac)
 - [SpeedLimit](src/SpeedLimit)
@@ -86,5 +88,6 @@
 - [Tri](src/Tri)
 - [Trik](src/Trik)
 - [TripleTexting](src/TripleTexting)
+- [WeakVertices](src/WeakVertices)
 - [Zamka](src/Zamka)
 
